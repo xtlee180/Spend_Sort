@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Spend Sort
 
 ## What this project does
 A script that summarizes my spending from a CSV.
